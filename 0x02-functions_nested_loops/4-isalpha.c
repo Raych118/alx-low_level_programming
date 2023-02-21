@@ -4,7 +4,7 @@
 /* more headers go there */
 
 /**
- * _islower - Entry point
+ * _isalpha - Entry point
  *
  * Return: 1 if c is a letter or 0 if c is not a letter (Success)
  *
