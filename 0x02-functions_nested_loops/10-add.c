@@ -4,7 +4,7 @@
 /* more headers go there */
 
 /**
- * _add - Entry point
+ * add - Entry point
  *
  * Return: Always return 0 (Success)
  *
