@@ -8,7 +8,7 @@
  *
  * Return: 1 if c is lower case or 0 ic c is uppercase (Success)
  *
- * variable c is going to be passed by whichever class calls the function
+ * c - is a variable going to be passed by whichever class calls the function
  */
 int _islower(int c)
 {
