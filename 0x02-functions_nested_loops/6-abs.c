@@ -8,7 +8,7 @@
  *
  * Return: Always return 0 (Success)
  *
- * @abs: a variable to be passed by the calling function
+ * @abso: a variable to be passed by the calling function
  */
 int _abs(int abso)
 {
