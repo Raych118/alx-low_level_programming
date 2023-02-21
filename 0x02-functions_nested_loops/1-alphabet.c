@@ -4,9 +4,9 @@
 /* more headers goes there */
 
 /**
- * main - Entry point
+ * print_alphabet - Entry point
  *
- * Return: Always 0 (Success)
+ * Return: void asi it is a function (Success)
  */
 void print_alphabet(void)
 {
